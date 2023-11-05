@@ -23,3 +23,21 @@ Add and manage students.
 Enroll students in schools.
 View school and student details.
 List all students within a school.
+
+## Employee Management System
+### Description
+The Employee Management System (EMS) is a Java application that assists in managing employee data within an organization. It provides a platform to efficiently store, retrieve, and manage information about employees, their roles, departments, and other HR-related entities.
+
+### Features
+Employee Information: Add, remove, update, and search for employee records.
+Department Management: Create, edit, and manage departments.
+Role and Responsibility: Define job roles and responsibilities for employees.
+
+###Usage
+Provide information on how to use your Employee Management System. Include instructions for adding, updating, or removing employee records, managing departments and roles.
+
+For example:
+
+To add or update employee information, use the EmployeeManager class.
+To create or manage departments, use the DepartmentManager class.
+To define roles and responsibilities, use the RoleManager class.
